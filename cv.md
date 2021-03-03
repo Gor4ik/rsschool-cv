@@ -15,3 +15,23 @@ I began to study HTML / CSS, JavaScript, frameworks, version control, webpack.
 I have taken courses that provided me with systematic information and then started writing code by my own.
 I am applying for the position of trainee/junior front-end developer.
 ---
+### Tech Skills 
+* HTML
+* CSS
+* JavaScript
+* GIT
+* Bootstrap
+---
+### Soft Skills
+* collaboration
+* responsible 
+* willingness to learn
+* flexibility
+---
+### Courses
+* Cursor Education 2018
+---
+### Languages:
+* English – Pre-Intermediate
+* Ukraine – native
+* Russian – advanced

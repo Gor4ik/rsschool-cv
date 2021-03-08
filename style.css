@@ -95,3 +95,21 @@ a {
 .value-100 {
 	width: 100%;
 }
+/* footer */
+.footer {
+  margin: 30px;
+}
+.social-item, .date-create {
+  width: auto;
+  margin: 0 auto 50px;
+  float: left;
+}
+.date-create,
+.school-link, 
+.git-link, 
+.youtube-link {
+ margin-left: 80px; 
+}
+.school-logo {
+  height: 40px;
+}

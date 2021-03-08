@@ -1,2 +1,2 @@
 
-https://Gor4ik.github.io/rsschool-cv/cv
+https://gor4ik.github.io/rsschool-cv/

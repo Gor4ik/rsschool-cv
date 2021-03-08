@@ -5,3 +5,37 @@ width: 50em;
 margin-left: auto;
 margin-right: auto;
 }
+/* header */
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(102, 130, 182);
+}
+.avatar {
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+.name-item {
+  float: right;
+  margin-left: 40px;
+}
+.right-side {
+  margin-right: 50px;
+}
+div .left-side, div .right-side {
+  width: 50%;
+}
+h3 {
+  margin-left: 10px;
+}
+ul {
+  list-style: none;
+}
+.section {
+  border-bottom: solid rgb(102, 130, 182) 3px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
